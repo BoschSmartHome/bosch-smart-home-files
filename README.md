@@ -29,12 +29,6 @@ By accepting these Terms and Conditions, through either accessing or using the f
 
 "Bosch Smart Home Devices" = "devices" 
 
-"Application" refers to web or other software services or applications created by User that utilize or interact with the files and are authorized to be published.
-
-"Client" refers to software created by developers using the files. Clients can be, for example (but are not limited to), mobile apps or web services.
-
-"Data" refers to data made available by accessing the files of a specific, local and personally owned Smart Home Controller ("SHC").
-
 "Documentation" refers to the provided files description and usage examples.
 
 "Commercial" means intended for or directed towards commercial advantage or monetary compensation. 
