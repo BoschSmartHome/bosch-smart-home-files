@@ -1,5 +1,5 @@
 # Bosch Smart Home Files
-<img src="images/bosch_smart_home.jpg"/>
+<img src="images/bosch_smart_home.jpg" alt="Bosch Smart Home"/>
 
 ## Contents
 
@@ -12,8 +12,9 @@
 
 [Bosch Smart Home](https://www.bosch-smarthome.com/) products allow you to automatically and remotely control the processes in your home. Each device has a unique purpose in your Smart Home and provides ease and convenience to your changing daily routines. Whether you want to network your heating system or secure the safety of your home, the Bosch Smart Home System offers you complete and personalised solutions to you and your home's needs. 
 
-## Firmware OTAU files
-In this repository we provide official OTAU files for our [Bosch Smart Home devices](https://www.bosch-smarthome.com/de/de/produkte/geraete/) with ZigBee protocol. This files are only necessary if your devices are not connected with a [Bosch Smart Home Controller](https://www.bosch-smarthome.com/de/de/produkte/geraete/smart-home-controller/).  
+## Files
+### Firmware OTAU files
+In this repository we provide official OTAU (over-the-air-update) files for our [Bosch Smart Home devices](https://www.bosch-smarthome.com/de/de/produkte/geraete/) with ZigBee protocol. These files are only necessary if your devices are not connected with a [Bosch Smart Home Controller](https://www.bosch-smarthome.com/de/de/produkte/geraete/smart-home-controller/).  
 
 ## Watch this repository
 Watch this repository to get notified when we change or update our Terms and Conditions or when there are changes or updates in the files. In case the Terms and Conditions are changed, the commit message will always contain the keyword `T&C`.
@@ -38,7 +39,7 @@ Privacy Policy refers to the Privacy Policy found [here](https://www.bosch-smart
 ### Purpose and License
 These Terms and Conditions and any and all restrictions and policies implemented by Bosch Smart Home from time to time with respect to the files as set forth in the Documentation govern Users rights to use the files for the purpose of transferring them via ZigBee OTAU to Bosch Smart Home Edge Devices to update the devices firmware.
 
-Subject to these Terms and Conditions, including the restrictions set forth, Bosch Smart Home grants to Users a non-exclusive, non-transferable, non-sublicensable, worldwide, revocable right and license during the Term to privately use the files for firmware updates solely for non profit usage.
+Subject to these Terms and Conditions, including the restrictions set forth, Bosch Smart Home grants to Users a non-exclusive, non-transferable, non-sublicensable, worldwide, revocable right and license during the Term to privately use the files for firmware updates solely for non-profit usage.
 
 ### Restrictions
 The licenses of these Terms and Conditions are explicitly conditioned on Users adherence to the following restrictions and compliance with its responsibilities as set forth herein.
