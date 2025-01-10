@@ -28,9 +28,9 @@ By accepting these Terms and Conditions, through either accessing or using the f
 ### Definitions
 "Files" refers to the files provided by Bosch Smart Home for private, non-profit Users
 
-"Bosch Smart Home Devices" = "devices" 
+"Devices" means the [Bosch Smart Home devices](https://www.bosch-smarthome.com/de/de/produkte/geraete/)
 
-"Documentation" refers to the provided files description and usage examples.
+"Documentation" refers to the provided file descriptions and usage examples.
 
 "Commercial" means intended for or directed towards commercial advantage or monetary compensation. 
 
